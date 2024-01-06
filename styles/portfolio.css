@@ -131,6 +131,7 @@ main section{
     color:#474747;
     font-size: 30px;
     font-weight: 700;
+    margin-bottom: 10px;
 }
 .resume-container{
     display: flex;
@@ -151,4 +152,8 @@ main section{
 }
 .resume-container hr{
     margin: 30px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
